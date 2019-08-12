@@ -42,6 +42,8 @@
         <package name="kotlinx.android.synthetic" withSubpackages="false" static="false" />
       </value>
     </option>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="99" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="99" />
   </JetCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />

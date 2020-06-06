@@ -1,13 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="useProjectFrame" value="true" />
     <option name="accentColor" value="2979ff" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="1af11764:1669b2622c9:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>

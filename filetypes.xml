@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="DangerfileStrings" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
